@@ -29,7 +29,7 @@ https://www.notion.so/User-Stories-POO-CyberGuard-325fb994f323806db057d7846308a6
 
 Foi criado um protótipo de baixa fidelidade representando as principais telas da aplicação CyberGuard, contemplando pelo menos cinco histórias de usuário do sistema.
 
-🎨 Acessar protótipo no Figma:  
+🎨 Acessar protótipo no Figma:  https://www.figma.com/proto/rZzPFfgoxS88nMSztqICJE/CyberGuard?node-id=0-1&t=ZuGWKKhYm4Wc3EsB-1
 
 
 ---
@@ -38,4 +38,4 @@ Foi criado um protótipo de baixa fidelidade representando as principais telas d
 
 Foi gravado um vídeo demonstrando o funcionamento do protótipo Lo-Fi e explicando o fluxo das telas da aplicação.
 
-▶️ Assistir no Youtube:  
+▶️ Assistir no Youtube:  https://youtu.be/1uMaBLwq7bc
