@@ -38,4 +38,4 @@ Foi criado um protótipo de baixa fidelidade representando as principais telas d
 
 Foi gravado um vídeo demonstrando o funcionamento do protótipo Lo-Fi e explicando o fluxo das telas da aplicação.
 
-▶️ Assistir no YouTube:  
+▶️ Assistir no Youtube:  
